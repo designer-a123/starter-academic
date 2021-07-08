@@ -23,19 +23,19 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Nanjing University of Posts and Telecommunications
+    url: http://www.njupt.edu.cn/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
+    - course: Doctor of Applied Mathematics
+      institution: Nanjing University Of Science And Technology
       year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Master of Applied Mathematics
+      institution: Nanjing University Of Science And Technology
+      year: 2007
+    - course: Bachelor of Mathematics
+      institution: Anqing Normal University
+      year: 2004
 email: ""
 superuser: true
 highlight_name: false
